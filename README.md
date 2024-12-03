@@ -19,6 +19,13 @@ Me chamo Samuel Vieira, tenho 16 anos e sou natural de Minas Gerais. Estou cursa
             src="https://custom-icon-badges.demolab.com/github/followers/Samuel0088?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://instagram.com/samuel.vieira08">
+        <img 
+            alt="Instagram" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
