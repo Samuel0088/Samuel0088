@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Samuel Vieira
+# 👨‍💻 Samuel Vieira
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
