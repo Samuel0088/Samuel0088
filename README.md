@@ -19,6 +19,10 @@ Sou curioso por tecnologia e busco o máximo de conhecimento.
     <img alt="Instagram" title="Me siga no Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/samuel-vieira-0b3420341/">
+    <img alt="LinkedIn" title="Me conecte no LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
