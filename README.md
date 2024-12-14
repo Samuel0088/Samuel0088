@@ -52,6 +52,9 @@ Sou curioso por tecnologia e busco o máximo de conhecimento.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+<br /><br /><br /> <!-- Adiciona espaço para evitar sobreposição -->
+
 ---
 
-### 💻 WebSite: [portifolio-samuel-vieira.vercel.app](https://portifolio-samuel-vieira.vercel.app/)
+### 💻 Website  
+[portifolio-samuel-vieira.vercel.app](https://portifolio-samuel-vieira.vercel.app/)
