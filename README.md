@@ -2,9 +2,9 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Samuel Vieira, tenho 16 anos e sou natural de Minas Gerais. Estou cursando ensino médio técnico na Etec
-Polivalente de Americana, em desenvolvimento de sistemas AMS. Sou curioso por tecnologia e busco o máximo de
-conhecimento.
+Me chamo Samuel Vieira, tenho 16 anos e sou natural de Minas Gerais.  
+Estou cursando ensino médio técnico na Etec Polivalente de Americana, em desenvolvimento de sistemas AMS.  
+Sou curioso por tecnologia e busco o máximo de conhecimento.
 
 <p align="left">
   <a href="https://github.com/Samuel0088?tab=repositories">
@@ -38,31 +38,20 @@ conhecimento.
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br />
-<br />
+<br /><br />
+
+---
 
 ### 📊 Estatísticas
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Samuel0088&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
+  <br />
   <img align="left" alt="GitHub Stats" height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+---
 
-
-### 💻 WebSite: https://portifolio-samuel-vieira.vercel.app/
+### 💻 WebSite: [portifolio-samuel-vieira.vercel.app](https://portifolio-samuel-vieira.vercel.app/)
