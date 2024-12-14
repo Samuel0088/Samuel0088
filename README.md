@@ -44,17 +44,18 @@ Sou curioso por tecnologia e busco o máximo de conhecimento.
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
+<p align="center">
+  <img alt="GitHub Stats" height="200"
     src="https://github-readme-stats.vercel.app/api?username=Samuel0088&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <br />
-  <img align="left" alt="GitHub Stats" height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br /><br /><br /> <!-- Adiciona espaço para evitar sobreposição -->
+<p align="center">
+  <img alt="GitHub Stats" height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
 
 ---
 
 ### 💻 Website  
+
 [portifolio-samuel-vieira.vercel.app](https://portifolio-samuel-vieira.vercel.app/)
