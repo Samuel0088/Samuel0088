@@ -1,10 +1,8 @@
 # 👨‍💻 Samuel Vieira
 
-**`Estudante de Desenvolvimento de Sistemas`**
+**`System Development Student`**
 
-Me chamo Samuel Vieira, tenho 16 anos e sou natural de Minas Gerais.  
-Estou cursando ensino médio técnico na Etec Polivalente de Americana, em desenvolvimento de sistemas AMS.  
-Sou curioso por tecnologia e busco o máximo de conhecimento.
+High school student specializing in System Development at Etec Polivalente de Americana (AMS). Passionate about technology, always curious, and constantly seeking to learn more. Originally from Minas Gerais, currently exploring the world of code and problem-solving through software.
 
 <p align="left">
   <a href="https://github.com/Samuel0088?tab=repositories">
@@ -27,7 +25,7 @@ Sou curioso por tecnologia e busco o máximo de conhecimento.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -41,20 +39,6 @@ Sou curioso por tecnologia e busco o máximo de conhecimento.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br /><br />
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img alt="GitHub Stats" height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Samuel0088&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Stats" height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
 
 ---
 
