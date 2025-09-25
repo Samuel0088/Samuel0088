@@ -23,6 +23,7 @@ High school student specializing in System Development at Etec Polivalente de Am
   </a>
 </p>
 
+Reach me out here: samuel.vieirafreitas@outlook.com
 ---
 
 ### 🤖 Stacks
