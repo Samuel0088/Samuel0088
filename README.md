@@ -49,4 +49,4 @@ Reach me out here: samuel.vieirafreitas@outlook.com
 
 ### 💻 Website  
 
-[portifolio-samuel-vieira.vercel.app](https://portifolio-samuel-vieira.vercel.app/)
+[portifolio-samuel-vieira.vercel.app](https://portfolio-samuelvieira.vercel.app/)
