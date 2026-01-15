@@ -13,7 +13,7 @@ High school student specializing in System Development at Etec Polivalente de Am
     <img alt="Seguidores" title="Me siga no GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/Samuel0088?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
-  <a href="https://instagram.com/samuel.vieira08">
+  <a href="https://instagram.com/s_vieira08">
     <img alt="Instagram" title="Me siga no Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
