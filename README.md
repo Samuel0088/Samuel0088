@@ -2,7 +2,8 @@
 
 **`System Development Student`**
 
-High school student specializing in System Development at Etec Polivalente de Americana (AMS). Passionate about technology, always curious, and constantly seeking to learn more. Originally from Minas Gerais, currently exploring the world of code and problem-solving through software.
+Sou estudante de Desenvolvimento de Sistemas, atualmente matriculado no Programa AMS da ETEC, uma iniciativa desenvolvida em parceria com a FATEC e a IBM. Durante o programa, tive a oportunidade de colaborar em um projeto real para uma empresa parceira, onde desenvolvemos uma aplicação web do zero. O projeto incluiu a integração de um módulo de Inteligência Artificial (IA), um sistema de login seguro e um gateway de pagamento.Essa experiência prática reforçou minha compreensão sobre o desenvolvimento em um ambiente real e aprimorou minhas habilidades de trabalho em equipe. Continuo a estudar a fundo Python, JavaScript e React para expandir minhas competências e construir uma base sólida para minha carreira em tecnologia.
+
 
 <p align="left">
   <a href="https://github.com/Samuel0088?tab=repositories">
@@ -23,7 +24,7 @@ High school student specializing in System Development at Etec Polivalente de Am
   </a>
 </p>
 
-Reach me out here: samuel.vieirafreitas@outlook.com
+Contato: samuel.vieirafreitas@outlook.com
 ---
 
 ### 🤖 Stacks
