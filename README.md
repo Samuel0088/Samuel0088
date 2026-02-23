@@ -4,11 +4,10 @@
 
 Olá! Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC)**, com previsão de conclusão em **2026**
 
----
 
 ## 🚀 Minha Experiência
 
-No projeto, atuei em todas as etapas do ciclo de desenvolvimento, desde a modelagem do sistema até a implementação. Trabalhei com:
+Atuei em todas as etapas do ciclo de desenvolvimento, desde a modelagem do sistema até a implementação. Trabalhei com:
 
 - **Desenvolvimento Full Stack**: Criação de funcionalidades completas, do back-end ao front-end.
 - **Integração de Inteligência Artificial**: Implementação de um módulo de IA para agregar valor à solução.
@@ -18,13 +17,11 @@ No projeto, atuei em todas as etapas do ciclo de desenvolvimento, desde a modela
 
 Atualmente, estou aprofundando meus estudos em **desenvolvimento web** e **bancos de dados relacionais**, sempre buscando boas práticas, organização de código e a construção de soluções escaláveis.
 
----
 
 ## 🎯 Objetivo
 
 Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais que impactem positivamente os usuários e os negócios.
 
----
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -39,16 +36,15 @@ Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </div>
 
----
 
 ## 📌 Conecte-se comigo
 
 <div align="left">
   <a href="https://github.com/Samuel0088" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/samuel-vieira-0b3420341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />&nbsp;&nbsp;
   </a>
 </div>
 
@@ -56,6 +52,5 @@ Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplica
 
 🌐 **Portfólio**: [https://portfolio-samuelvieira.vercel.app/](https://portfolio-samuelvieira.vercel.app/)
 
----
 
 ✨ **Vamos construir algo incrível juntos?** Fique à vontade para explorar meus repositórios e entrar em contato!
