@@ -1,27 +1,45 @@
-# 👨‍💻 Samuel Vieira
+# 👨‍💻 Samuel Vieira  
 
-### Estudante de Desenvolvimento de Sistemas | Buscando Estágio em Desenvolvimento
+### 💻 System Development Student | Buscando Estágio
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC)**, com previsão de conclusão em **2026**
+Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC)**, com conclusão prevista para **2026**.  
 
+Tenho foco em desenvolvimento web e na construção de aplicações completas, desde a modelagem do banco de dados até a entrega da interface ao usuário.
 
-## 🚀 Minha Experiência
+---
 
-Atuei em todas as etapas do ciclo de desenvolvimento, desde a modelagem do sistema até a implementação. Trabalhei com:
+## 🚀 Experiência Prática
 
-- **Desenvolvimento Full Stack**: Criação de funcionalidades completas, do back-end ao front-end.
-- **Integração de Inteligência Artificial**: Implementação de um módulo de IA para agregar valor à solução.
-- **Sistema de Autenticação**: Desenvolvimento de login seguro para proteger os dados dos usuários.
-- **Gateway de Pagamento**: Integração com sistemas de pagamento para viabilizar transações.
-- **Metodologias Ágeis**: Colaboração em equipe com foco em entregas contínuas e eficientes.
+Participei do desenvolvimento de uma aplicação web real em parceria com empresa do programa, atuando em todas as etapas do ciclo de desenvolvimento:
 
-Atualmente, estou aprofundando meus estudos em **desenvolvimento web** e **bancos de dados relacionais**, sempre buscando boas práticas, organização de código e a construção de soluções escaláveis.
+- 🔹 Modelagem de Banco de Dados (MySQL)  
+- 🔹 Desenvolvimento Full Stack (Front-end + Back-end)  
+- 🔹 Integração de módulo de Inteligência Artificial  
+- 🔹 Implementação de autenticação segura (login e controle de acesso)  
+- 🔹 Integração com gateway de pagamento  
+- 🔹 Trabalho em equipe utilizando metodologias ágeis  
 
+Essa experiência me proporcionou vivência prática em ambiente real, organização de código, versionamento e entregas contínuas.
 
-## 🎯 Objetivo
+---
 
-Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais que impactem positivamente os usuários e os negócios.
+## 🧠 Atualmente Estudando
 
+- Estrutura e organização de bancos de dados relacionais  
+- Boas práticas de desenvolvimento  
+- Clean Code  
+- Aprimoramento em React e JavaScript  
+- Fundamentos de Inteligência Artificial  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade de **estágio em desenvolvimento** para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes e bem estruturadas.
+
+Tenho grande interesse em aprender com desenvolvedores mais experientes e crescer dentro de um ambiente profissional.
+
+---
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -36,21 +54,22 @@ Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </div>
 
+---
 
-## 📌 Conecte-se comigo
+## 📬 Contato
 
-<div align="left">
-  <a href="https://github.com/Samuel0088" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-vieira-0b3420341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />&nbsp;&nbsp;
-  </a>
-</div>
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/samuel-vieira-0b3420341/
 
-📩 **E-mail**: [samuel.vieirafreitas@outlook.com](mailto:samuel.vieirafreitas@outlook.com)
+💻 **GitHub:**  
+https://github.com/Samuel0088
 
-🌐 **Portfólio**: [https://portfolio-samuelvieira.vercel.app/](https://portfolio-samuelvieira.vercel.app/)
+🌐 **Portfólio:**  
+https://portfolio-samuelvieira.vercel.app/
 
+📩 **E-mail:**  
+samuel.vieirafreitas@outlook.com  
 
-✨ **Vamos construir algo incrível juntos?** Fique à vontade para explorar meus repositórios e entrar em contato!
+---
+
+✨ Sempre aberto a novos aprendizados, desafios e oportunidades.
