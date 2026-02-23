@@ -1,43 +1,69 @@
-👨‍💻 Samuel Vieira
+# 👨‍💻 Samuel Vieira
 
-Estudante de Desenvolvimento de Sistemas | Buscando Estágio em Desenvolvimento
+### Estudante de Desenvolvimento de Sistemas | Buscando Estágio em Desenvolvimento
 
-Sou estudante de Desenvolvimento de Sistemas pelo programa AMS (ETEC + FATEC + IBM), com previsão de conclusão em 2026.
+Olá! Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC + IBM)**, com previsão de conclusão em **2026**. Durante minha jornada acadêmica, tive a oportunidade de trabalhar em um projeto desafiador e prático: o desenvolvimento de uma aplicação web real para uma empresa parceira do programa.
 
-Tenho experiência prática no desenvolvimento de uma aplicação web real para uma empresa parceira do programa, atuando desde a modelagem do sistema até a implementação. Durante o projeto, trabalhei com:
+---
 
-Desenvolvimento Full Stack
+## 🚀 Minha Experiência
 
-Integração de módulo de Inteligência Artificial
+No projeto, atuei em todas as etapas do ciclo de desenvolvimento, desde a modelagem do sistema até a implementação. Trabalhei com:
 
-Sistema de autenticação (login seguro)
+- **Desenvolvimento Full Stack**: Criação de funcionalidades completas, do back-end ao front-end.
+- **Integração de Inteligência Artificial**: Implementação de um módulo de IA para agregar valor à solução.
+- **Sistema de Autenticação**: Desenvolvimento de login seguro para proteger os dados dos usuários.
+- **Gateway de Pagamento**: Integração com sistemas de pagamento para viabilizar transações.
+- **Metodologias Ágeis**: Colaboração em equipe com foco em entregas contínuas e eficientes.
 
-Integração com gateway de pagamento
+Atualmente, estou aprofundando meus estudos em **desenvolvimento web** e **bancos de dados relacionais**, sempre buscando boas práticas, organização de código e a construção de soluções escaláveis.
 
-Trabalho em equipe com metodologias ágeis
+---
 
-Atualmente, aprofundo meus estudos em desenvolvimento web e bancos de dados relacionais, com foco em boas práticas, organização de código e construção de soluções escaláveis.
+## 🎯 Objetivo
 
-🎯 Objetivo: Conquistar uma oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais que impactem positivamente os usuários e os negócios.
 
-🛠 Tecnologias
+---
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+## 🛠 Tecnologias e Ferramentas
 
-<br /><br />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+</div>
 
-📌 Conecte-se comigo
-<p align="left"> <a href="https://github.com/Samuel0088"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/samuel-vieira-0b3420341/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+---
 
-📩 Email: samuel.vieirafreitas@outlook.com
+## 📌 Conecte-se comigo
 
-🌐 Portfolio
+<div align="left">
+  <a href="https://github.com/Samuel0088" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-vieira-0b3420341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-🔗 https://portfolio-samuelvieira.vercel.app/
+📩 **E-mail**: [samuel.vieirafreitas@outlook.com](mailto:samuel.vieirafreitas@outlook.com)
+
+🌐 **Portfólio**: [https://portfolio-samuelvieira.vercel.app/](https://portfolio-samuelvieira.vercel.app/)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel0088&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&layout=compact&theme=radical)
+
+---
+
+✨ **Vamos construir algo incrível juntos?** Fique à vontade para explorar meus repositórios e entrar em contato!
