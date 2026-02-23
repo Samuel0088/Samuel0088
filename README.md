@@ -2,7 +2,7 @@
 
 ### Estudante de Desenvolvimento de Sistemas | Buscando Estágio em Desenvolvimento
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC + IBM)**, com previsão de conclusão em **2026**. Durante minha jornada acadêmica, tive a oportunidade de trabalhar em um projeto desafiador e prático: o desenvolvimento de uma aplicação web real para uma empresa parceira do programa.
+Olá! Sou estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC)**, com previsão de conclusão em **2026**
 
 ---
 
@@ -29,13 +29,13 @@ Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplica
 ## 🛠 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </div>
 
@@ -55,14 +55,6 @@ Quero conquistar uma oportunidade de **estágio em desenvolvimento** para aplica
 📩 **E-mail**: [samuel.vieirafreitas@outlook.com](mailto:samuel.vieirafreitas@outlook.com)
 
 🌐 **Portfólio**: [https://portfolio-samuelvieira.vercel.app/](https://portfolio-samuelvieira.vercel.app/)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel0088&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0088&layout=compact&theme=radical)
 
 ---
 
