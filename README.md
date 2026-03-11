@@ -22,7 +22,7 @@
 
 Estudante de **Desenvolvimento de Sistemas** pelo programa **AMS (ETEC + FATEC)**, com conclusão prevista para **2026**.
 
-Foco em desenvolvimento web full stack — do banco de dados à interface. Busco estágio para crescer em ambiente profissional e contribuir com soluções bem estruturadas.
+Foco em desenvolvimento full stack — do banco de dados à interface. Busco estágio para crescer em ambiente profissional e contribuir com soluções bem estruturadas.
 
 <br/>
 
