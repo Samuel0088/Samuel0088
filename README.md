@@ -39,10 +39,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<!-- AI -->
-<img align="left" alt="AI" width="30px" style="padding-right:10px;" 
-src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
-
 <!-- Version Control -->
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
